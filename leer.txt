@@ -1,0 +1,2 @@
+para ejecutarlo copiar el contenido del archivo vehiculo.js
+enla consola del navegador,dar enter y se ejecuta
